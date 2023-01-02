@@ -8,5 +8,6 @@
   - HTML and CSS
   - Mainly JavaScript ES5, ES6 and ES7
   - Traditionel Bootstrap by CDN for the responsive design of this Vue.js + Vuex App
-  - Hosted at GitHub Pages  
+  - Hosted at GitHub Pages
+  - DevOps by GitHub Actions and GitHub Pages  
   - Visual Studio Code as Text Editor

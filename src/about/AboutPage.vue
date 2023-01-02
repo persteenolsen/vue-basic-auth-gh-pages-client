@@ -12,7 +12,7 @@
    
    <b>Last Updated</b>
    <ul>
-    <li>23-12-2022</li>
+    <li>02-01-2023</li>
    </ul>
 
    <b>Main functionality</b>
@@ -61,6 +61,12 @@
   
    </ul>
 
+  
+  <b>DevOps</b>
+  <ul>
+    <li>The Vue client has a CI / CD Pipeline implemented by GitHub Action and GitHub Pages</li>
+    <li>The Web API has a CI / CD Pipeline implemented by Azure DevOps and Azure App Service</li>
+  </ul>
 
   <b>Hosting</b>
   <ul>
