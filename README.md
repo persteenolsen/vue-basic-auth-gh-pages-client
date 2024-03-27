@@ -11,3 +11,4 @@
   - Hosted at GitHub Pages
   - DevOps by Azure DevOps + Azure App Service and GitHub Actions + GitHub Pages  
   - Visual Studio Code as Text Editor
+  - Last updated: 24-03-2024
